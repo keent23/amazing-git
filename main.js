@@ -1,3 +1,3 @@
-const a = "que pasa!";
+const a = "Como estas?";
 
 console.log(a);
